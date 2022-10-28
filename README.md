@@ -1,2 +1,2 @@
 # Project01
-https://dilshatun03.github.io/Project01/
+Project-----01: https://dilshatunproject-01.netlify.app/
